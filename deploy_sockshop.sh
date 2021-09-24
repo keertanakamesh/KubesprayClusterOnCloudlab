@@ -13,6 +13,7 @@ sudo pip install requests pyasn1 ipaddress urllib3 --upgrade
 sudo pip install docker pexpect netifaces selenium kubernetes requests
 sudo pip install locustio==0.13.5 pycryptodome
 sudo pip install pwntools
+sudo pip install pathlib2
 sudo python -m easy_install --upgrade pyOpenSSL
 
 #  Run the experimental coordinator for sockshop:
